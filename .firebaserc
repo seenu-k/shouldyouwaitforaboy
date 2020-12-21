@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "shouldyouwaitforaboy"
+  },
+  "targets": {
+    "shouldyouwaitforaboy": {
+      "hosting": {
+        "shouldyouwaitforaboy": [
+          "shouldyouwaitforaboy"
+        ]
+      }
+    }
+  }
+}
